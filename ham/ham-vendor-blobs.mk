@@ -176,6 +176,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
     vendor/zuk/ham/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/zuk/ham/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
+	vendor/zuk/ham/proprietary/vendor/lib/libQtiTether.so:system/vendor/lib/libQtiTether.so \
     vendor/zuk/ham/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/zuk/ham/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/zuk/ham/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \

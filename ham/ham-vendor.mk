@@ -22,7 +22,8 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     com.qualcomm.location \
     qcrilmsgtunnel \
-    shutdownlistener \
+    QtiTetherService \
+	shutdownlistener \
     TimeService
 
 PRODUCT_PACKAGES += \
